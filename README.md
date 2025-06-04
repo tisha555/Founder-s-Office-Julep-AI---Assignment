@@ -62,7 +62,6 @@
 ![Indoor Dining](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80)
 
 ---
-
 ## 💻 How to Run Locally
 
 
@@ -80,20 +79,26 @@ npm install
 # Start the development server
 npm start
 
-#🔮 Future Improvements
-Expand the city & dish database dynamically.
+---
+## 🔮 Future Improvements
 
-Add user reviews and restaurant ratings.
+- 🚀 Expand the city & dish database dynamically  
+- 🌟 Add user reviews and restaurant ratings  
+- 🗺️ Include an interactive map view  
+- 🍃 Support dietary restrictions & allergies  
+- ⏱️ Optimize meal stops by time and distance  
 
-Include an interactive map view.
+---
 
-Support dietary restrictions & allergies.
+## 🙏 Credits
 
-Optimize meal stops by time and distance.
+- Weather data by [OpenWeatherMap](https://openweathermap.org/)  
+- Restaurant data by [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)  
+- Photos sourced from [Unsplash](https://unsplash.com/)  
 
-#🙏 Credits
-Weather data from OpenWeatherMap
+---
 
-Restaurant data from Google Places API
+## 📄 License
 
-Photos sourced from Unsplash
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

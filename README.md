@@ -66,18 +66,9 @@
 
 
 # Clone the repository
-git clone https://github.com/yourusername/foodie-tour-generator.git
+git clone https://github.com/tisha555/foodie-tour-generator.git
 cd foodie-tour-generator
 
-# Install dependencies
-npm install
-
-# Create a .env file and add your API keys:
-# REACT_APP_WEATHER_API_KEY=your_openweather_api_key
-# REACT_APP_PLACES_API_KEY=your_google_places_api_key
-
-# Start the development server
-npm start
 
 ---
 ## 🔮 Future Improvements

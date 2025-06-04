@@ -1,0 +1,5 @@
+cities = ["Delhi", "Mumbai"]
+for city in cities:
+    foodie_tour(city)
+Flask==2.3.2
+requests==2.31.0
